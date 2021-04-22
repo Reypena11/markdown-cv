@@ -2,86 +2,64 @@
 layout: cv
 title: Reyna's CV
 ---
-#R Reyna Peña-Calvillo 
-Public Policy, UCR 
 
 
+# Reyna Peña-Calvillo 
+1815 S Westside Dr Anaheim, CA 92805| 951-310-1224| *rpena013@ucr.edu*
 
-## Currently
+# Education 
 
-Standing on the shoulders of giants
+`2021` University of California, Riverside, CA
 
-### Specialized in
+Master of Public Policy
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2019` California State Polytechnic University, Pomona, CA 
 
+Bachelors in Arts, Political Science 
 
-### Research interests
+`2017` Norco College, Norco, CA 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Associates in Social and Behavioral Studies 
+Associates in Political Science 
 
+## Research Interest 
 
-## Education
+Health and health outcome disparities among disadvantaged low social economic status and minority communities
 
-`1654-1660`
-__The King's School, Grantham.__
+## Research Experience 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020-Curent`  
+__University, Entrepreneurship, and Development: Multi-Dimensional Analyses of University Business Development Programs,__ 
+*Research Assistant*. Under the supervision of Dr. Qingfang Wang.
 
-- Sizar
+## Fellowships 
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2020-Current`
+__Randall Lewis Health & Policy Fellow__
+ 	
 
-- Fellow
+`2018- 2019`  
+__California Center for Ethics and Policy Fellow__
 
+Topic: Health Care Justice and Health Access in CA	
 
+## Professional Memberships
 
-## Awards
+Member, Association for Public Policy Analysis & Management (APPAM)  
 
-`2012`
-President, *Royal Society*, London, UK
+## Professional Experience 
 
-Associate, *French Academy of Science*, Paris, France
+`2021`
+__Teaching Assistant__ 
+School of Public Policy, UCR
+Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
 
+`2020 - Current`
+__Research Assistant__
+Inland Center for Sustainable Development, UCR
+Data collection – Collect qualitative data via interviews, translation, tabulations, transcription of data. Data analysis in summary forms. Managing interview schedules with participants and stakeholders. Community Outreach. 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2020`
+__Teaching Assistant__
+School of Public Policy, UCR
+Responsible for hosting weekly Zoom discussion sessions, grading essays and, exams, as well as maintaining open communication with students and hosting office hours as needed. 
